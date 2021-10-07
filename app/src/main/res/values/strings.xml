@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DiceRolls</string>
+    <string name="roll">Roll</string>
+    <string name="enter_your_lucky_number">Enter your lucky number</string>
+    <string name="number" />
+    <string name="dice_image">dice image</string>
+</resources>
